@@ -6,13 +6,13 @@
 </p>
 
 - 🔭 **Currently working on:**  
-  🚀 **Crowdfunding using Blockchain**  
+  🚀 **MultiAgentic AI**  
 
 - 🌱 **Currently learning:**  
-  🛠 **Solidity**, **Backend Development**, and **Smart Contract Constructs**
+  🛠 **GenAI**, **Elastic Search**, and **Linux Driver Development**
 
 - 💬 **Ask me about:**  
-  🖥 **Frontend Development**, 🌐 **IoT**, and ⚡ **Electronics**
+  🖥 **ML & GEN AI**, 🌐 **IOT**, and ⚡ **LINUX DRIVER DEVELOPMENT**
 
 - 📫 **How to reach me:**  
   📧 **prajenram2004@gmail.com**
