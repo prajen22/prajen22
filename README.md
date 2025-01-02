@@ -20,67 +20,87 @@
 <p align="left">
   <!-- Programming Skills -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://en.cppreference.com/" target="_blank" rel="noreferrer">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <a href="https://developer.nvidia.com/embedded-jetson-modules" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Nvidia_Jetson_logo.png" alt="Jetson" width="40" height="40"/>
+  <a href="https://www.keil.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/23/Keil-Logo.png" alt="Embedded C" width="40" height="40"/>
+  </a>
+  <a href="https://www.verilog.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Verilog.svg" alt="Verilog" width="40" height="40"/>
+  </a>
+  <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unrealengine/unrealengine-icon.svg" alt="Unreal Engine" width="40" height="40"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
 
   <!-- Web Development -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="Prisma" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 
   <!-- Networking Tools -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
+  </a>
+  <a href="https://agentic.ai/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/3296/PNG/512/ai_artificial_intelligence_brain_icon_208958.png" alt="Agentic AI" width="40" height="40"/>
+  </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
   </a>
-  <a href="https://ngrok.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/30392224?s=200&v=4" alt="NGROK" width="40" height="40"/>
-  </a>
-  <a href="https://www.fastapi.com/" target="_blank" rel="noreferrer">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  </a>
+  <a href="https://www.ngrok.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/ngrok.svg" alt="NGROK" width="40" height="40"/>
   </a>
 
   <!-- Machine Learning -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   </a>
-
-  <!-- EDA & Simulation -->
-  <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/>
+  </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/streamlit.svg" alt="Streamlit" width="40" height="40"/>
   </a>
 
-  <!-- Hardware Boards -->
+  <!-- Hardware -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   </a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
-  </a>
-  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/STMicroelectronics_logo.svg" alt="STM32" width="40" height="40"/>
+  <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="40" height="40"/>
   </a>
 </p>
+
