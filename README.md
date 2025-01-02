@@ -1,13 +1,41 @@
-<h1 align="center">Hi 👋, I'm Prajen SK</h1>
-<h3 align="center">A passionate engineering student who loves to learn new skills.</h3>
+<h1 align="center">Hi there! 👋 I'm Prajen SK</h1>
+<h3 align="center">🚀 A passionate engineering student exploring technology, innovation, and learning new skills every day.</h3>
 
-- 🔭 I’m currently working on **Crowdfunding using blockchain**
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding" width="300"/>
+</p>
 
-- 🌱 I’m currently learning **Solidity, Backend, constructs**
+- 🔭 **Currently working on:**  
+  🚀 **Crowdfunding using Blockchain**  
 
-- 💬 Ask me about **frontend , Iot ,Electronics**
+- 🌱 **Currently learning:**  
+  🛠 **Solidity**, **Backend Development**, and **Smart Contract Constructs**
 
-- 📫 How to reach me **prajenram2004@gmail.com**
+- 💬 **Ask me about:**  
+  🖥 **Frontend Development**, 🌐 **IoT**, and ⚡ **Electronics**
+
+- 📫 **How to reach me:**  
+  📧 **prajenram2004@gmail.com**
+
+---
+
+<h3 align="center">🌟 Let's Connect and Collaborate! 🌟</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:prajenram2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
