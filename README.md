@@ -28,15 +28,7 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <a href="https://www.keil.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/23/Keil-Logo.png" alt="Embedded C" width="40" height="40"/>
-  </a>
-  <a href="https://www.verilog.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Verilog.svg" alt="Verilog" width="40" height="40"/>
-  </a>
-  <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unrealengine/unrealengine-icon.svg" alt="Unreal Engine" width="40" height="40"/>
-  </a>
+
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
@@ -51,12 +43,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="Prisma" width="40" height="40"/>
-  </a>
+
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
@@ -68,18 +55,14 @@
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
   </a>
-  <a href="https://agentic.ai/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/3296/PNG/512/ai_artificial_intelligence_brain_icon_208958.png" alt="Agentic AI" width="40" height="40"/>
-  </a>
+
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   </a>
-  <a href="https://www.ngrok.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/ngrok.svg" alt="NGROK" width="40" height="40"/>
-  </a>
+
 
   <!-- Machine Learning -->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
@@ -91,9 +74,7 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/>
   </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/streamlit.svg" alt="Streamlit" width="40" height="40"/>
-  </a>
+
 
   <!-- Hardware -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
