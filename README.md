@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A passionate engineering student exploring technology, innovation, and learning new skills every day.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding" width="300"/>
+  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9mZDE5N3o5em03MDUwNXY2NGd2Y2YzZmNjc3IxYnI2dndnNW84aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)" alt="Coding" width="300"/>
 </p>
 
 - 🔭 **Currently working on:**  
